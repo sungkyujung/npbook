@@ -1,0 +1,320 @@
+Favorable	Unfavorable	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+56.0	33.0	12.0	ppp-d-27387	PPP (D)	2017-03-27	2017-03-28	Do you have a favorable or unfavorable opinion of Joe Biden?	Likely Voters	677	3.8	IVR/Online	Pollster	Dem
+54.0	31.0	14.0	yougov-economist-27049	YouGov/Economist	2017-01-23	2017-01-25		Adults	2692	2.3	Internet	Nonpartisan	None
+55.0	30.0	15.0	yougov-economist-27025	YouGov/Economist	2017-01-14	2017-01-17		Adults	1447	3.0	Internet	Nonpartisan	None
+56.0	22.0	22.0	nbc-wsj-27023	NBC/WSJ	2017-01-12	2017-01-15		Adults	1000	3.1	Live Phone	Nonpartisan	None
+50.0	33.0	17.0	yougov-economist-26996	YouGov/Economist	2017-01-07	2017-01-10		Adults	1424	3.1	Internet	Nonpartisan	None
+61.0	30.0	10.0	gallup-27020	Gallup	2017-01-04	2017-01-08		Adults	1032	4.0	Live Phone	Nonpartisan	None
+49.0	34.0	17.0	yougov-economist-26972	YouGov/Economist	2016-12-31	2017-01-03		Adults	1647	3.0	Internet	Nonpartisan	None
+48.0	34.0	18.0	yougov-economist-26958	YouGov/Economist	2016-12-24	2016-12-27		Adults	1662	2.9	Internet	Nonpartisan	None
+48.0	34.0	18.0	yougov-economist-26945	YouGov/Economist	2016-12-17	2016-12-20		Adults	1376	3.3	Internet	Nonpartisan	None
+56.0	33.0	10.0	fox-26922	FOX	2016-12-11	2016-12-13		Registered Voters	1034	3.0	Live Phone	Nonpartisan	None
+51.0	32.0	16.0	yougov-economist-26919	YouGov/Economist	2016-12-10	2016-12-13		Adults	1434		Internet	Nonpartisan	None
+58.0	37.0	4.0	rasmussen-26907	Rasmussen	2016-12-06	2016-12-07		Likely Voters	1000	3.0	IVR/Online	Nonpartisan	None
+56.0	34.0	9.0	bloomberg-selzer-26897	Bloomberg/Selzer	2016-12-02	2016-12-05		Adults	999	3.1	Live Phone	Nonpartisan	None
+50.0	29.0	21.0	yougov-economist-26874	YouGov/Economist	2016-11-19	2016-11-22		Adults	1409		Internet	Nonpartisan	None
+47.0	33.0	20.0	yougov-economist-26837	YouGov/Economist	2016-11-12	2016-11-15		Adults	1659	2.8	Internet	Nonpartisan	None
+51.0	40.0	9.0	yougov-economist-26805	YouGov/Economist	2016-11-04	2016-11-07		Registered Voters	4171	1.8	Internet	Nonpartisan	None
+56.0	38.0	7.0	bloomberg-selzer-26771	Bloomberg/Selzer	2016-11-04	2016-11-06		Likely Voters	799	3.5	Live Phone	Nonpartisan	None
+52.0	40.0	8.0	yougov-economist-26618	YouGov/Economist	2016-10-30	2016-11-01		Registered Voters	1388	3.0	Internet	Nonpartisan	None
+50.0	41.0	9.0	yougov-economist-26504	YouGov/Economist	2016-10-22	2016-10-26		Registered Voters	1376	3.1	Internet	Nonpartisan	None
+47.0	36.0	16.0	yougov-economist-26280	YouGov/Economist	2016-10-15	2016-10-18		Adults	1300	3.9	Internet	Nonpartisan	None
+49.0	38.0	12.0	yougov-economist-26019	YouGov/Economist	2016-10-07	2016-10-08		Adults	1300	4.2	Internet	Nonpartisan	None
+49.0	38.0	13.0	yougov-economist-25893	YouGov/Economist	2016-10-01	2016-10-03		Adults	1300	3.7	Internet	Nonpartisan	None
+52.0	37.0	12.0	yougov-economist-25649	YouGov/Economist	2016-09-22	2016-09-24		Adults	1300	3.9	Internet	Nonpartisan	None
+49.0	37.0	13.0	yougov-economist-25587	YouGov/Economist	2016-09-18	2016-09-19		Adults	1300	3.9	Internet	Nonpartisan	None
+50.0	38.0	12.0	yougov-economist-25487	YouGov/Economist	2016-09-10	2016-09-13		Adults	1300	3.9	Internet	Nonpartisan	None
+52.0	36.0	11.0	yougov-economist-25411	YouGov/Economist	2016-09-04	2016-09-06		Adults	1300	4.4	Internet	Nonpartisan	None
+50.0	38.0	13.0	yougov-economist-25297	YouGov/Economist	2016-08-27	2016-08-29		Adults	1282		Internet	Nonpartisan	None
+48.0	36.0	15.0	yougov-economist-25247	YouGov/Economist	2016-08-19	2016-08-23		Adults	1286		Internet	Nonpartisan	None
+54.0	33.0	14.0	yougov-economist-25194	YouGov/Economist	2016-08-14	2016-08-16		Adults	1285	4.1	Internet	Nonpartisan	None
+49.0	38.0	13.0	yougov-economist-25107	YouGov/Economist	2016-08-06	2016-08-09		Adults	1300	3.9	Internet	Nonpartisan	None
+51.0	37.0	12.0	yougov-economist-25040	YouGov/Economist	2016-07-30	2016-08-01		Adults	1300	4.0	Internet	Nonpartisan	None
+50.0	39.0	11.0	ppp-d-25022	PPP (D)	2016-07-29	2016-07-30	Do you have a favorable or unfavorable opinion of Joe Biden?	Likely Voters	1276	2.7	IVR/Online	Pollster	Dem
+49.0	35.0	16.0	yougov-economist-24962	YouGov/Economist	2016-07-23	2016-07-24	Do you have a favorable or an unfavorable opinion of the following people?	Adults	1300	4.2	Internet	Nonpartisan	None
+49.0	37.0	14.0	yougov-economist-24925	YouGov/Economist	2016-07-15	2016-07-17	Do you have a favorable or an unfavorable opinion of the following people?	Adults	1300	4.3	Internet	Nonpartisan	None
+48.0	38.0	14.0	yougov-economist-24874	YouGov/Economist	2016-07-09	2016-07-11		Adults	1300	4.2	Internet	Nonpartisan	None
+52.0	37.0	11.0	yougov-economist-24823	YouGov/Economist	2016-07-02	2016-07-04		Adults	1300	3.9	Internet	Nonpartisan	None
+49.0	38.0	12.0	yougov-economist-24795	YouGov/Economist	2016-06-24	2016-06-27		Adults	1300	3.9	Internet	Nonpartisan	None
+50.0	37.0	13.0	yougov-economist-24739	YouGov/Economist	2016-06-18	2016-06-20		Adults	1300	3.2	Internet	Nonpartisan	None
+53.0	35.0	12.0	bloomberg-selzer-24686	Bloomberg/Selzer	2016-06-10	2016-06-13		Adults	1000	3.1	Live Phone	Nonpartisan	None
+53.0	36.0	12.0	fox-24646	FOX	2016-06-05	2016-06-08		Registered Voters	1004	3.0	Live Phone	Nonpartisan	None
+51.0	36.0	13.0	yougov-economist-24633	YouGov/Economist	2016-06-02	2016-06-05		Adults	2000	3.2	Internet	Nonpartisan	None
+51.0	37.0	13.0	yougov-economist-24557	YouGov/Economist	2016-05-20	2016-05-23		Adults	1977		Internet	Nonpartisan	None
+50.0	36.0	14.0	yougov-economist-24478	YouGov/Economist	2016-05-06	2016-05-09		Adults	2000	3.0	Internet	Nonpartisan	None
+48.0	37.0	16.0	yougov-economist-24390	YouGov/Economist	2016-04-22	2016-04-26		Adults	2000	2.8	Internet	Nonpartisan	None
+47.0	39.0	13.0	yougov-economist-24266	YouGov/Economist	2016-04-08	2016-04-11		Adults	1980		Internet	Nonpartisan	None
+47.0	37.0	16.0	yougov-economist-24181	YouGov/Economist	2016-03-26	2016-03-29		Adults	1978		Internet	Nonpartisan	None
+48.0	38.0	15.0	yougov-economist-24084	YouGov/Economist	2016-03-10	2016-03-12		Adults	1973		Internet	Nonpartisan	None
+46.0	35.0	18.0	yougov-economist-23910	YouGov/Economist	2016-02-24	2016-02-27		Adults	1977		Internet	Nonpartisan	None
+45.0	39.0	17.0	yougov-economist-23794	YouGov/Economist	2016-02-11	2016-02-15		Adults	1987		Internet	Nonpartisan	None
+47.0	37.0	16.0	yougov-economist-23654	YouGov/Economist	2016-01-27	2016-01-30		Adults	2000	2.9	Internet	Nonpartisan	None
+45.0	38.0	16.0	yougov-economist-23553	YouGov/Economist	2016-01-15	2016-01-19		Adults	2000	2.9	Internet	Nonpartisan	None
+45.0	39.0	16.0	yougov-economist-23415	YouGov/Economist	2015-12-18	2015-12-21		Adults	2000	3.1	Internet	Nonpartisan	None
+45.0	38.0	18.0	yougov-economist-23302	YouGov/Economist	2015-12-04	2015-12-09		Adults	2000	3.0	Internet	Nonpartisan	None
+45.0	39.0	16.0	yougov-economist-23236	YouGov/Economist	2015-11-19	2015-11-23		Adults	2000	3.1	Internet	Nonpartisan	None
+43.0	39.0	18.0	yougov-economist-23109	YouGov/Economist	2015-11-05	2015-11-09		Adults	2000	3.0	Internet	Nonpartisan	None
+46.0	38.0	15.0	yougov-economist-23014	YouGov/Economist	2015-10-23	2015-10-27		Adults	2000	3.0	Internet	Nonpartisan	None
+40.0	39.0	21.0	ap-gfk-web-22961	AP-GfK (web)	2015-10-15	2015-10-19		Adults	1027	3.3	Internet	Nonpartisan	None
+42.0	31.0	27.0	nbc-wsj-22940	NBC/WSJ	2015-10-15	2015-10-18		Adults	1000	3.1	Live Phone	Nonpartisan	None
+51.0	37.0	12.0	cnn-22934	CNN	2015-10-14	2015-10-17		Adults	1028	3.0	Live Phone	Nonpartisan	None
+47.0	38.0	15.0	yougov-economist-22920	YouGov/Economist	2015-10-08	2015-10-12		Adults	2000	2.8	Internet	Nonpartisan	None
+49.0	37.0	15.0	gallup-22928	Gallup	2015-10-07	2015-10-11		Adults	1015	4.0	Live Phone	Nonpartisan	None
+45.0	40.0	15.0	abc-post-22912	ABC/Post	2015-10-07	2015-10-11		Adults	1002	3.5	Live Phone	Nonpartisan	None
+38.0	36.0	26.0	cbs-22889	CBS	2015-10-04	2015-10-08		Registered Voters	1038		Live Phone	Nonpartisan	None
+44.0	44.0	12.0	ppp-d-22856	PPP (D)	2015-10-01	2015-10-04		Likely Voters	1338	2.7	IVR/Online	Pollster	Dem
+49.0	37.0	14.0	yougov-economist-22829	YouGov/Economist	2015-09-25	2015-09-29		Adults	2000	2.8	Internet	Nonpartisan	None
+51.0	35.0	15.0	suffolk-usa-today-22822	Suffolk/USA Today	2015-09-24	2015-09-28		Likely Voters	1000	3.0	Live Phone	Nonpartisan	None
+49.0	40.0	11.0	morning-consult-22814	Morning Consult	2015-09-24	2015-09-27		Registered Voters	1543	2.0	Internet	Nonpartisan	None
+40.0	28.0	32.0	nbc-wsj-22808	NBC/WSJ	2015-09-20	2015-09-24		Adults	1000	3.1	Live Phone	Nonpartisan	None
+49.0	40.0	11.0	fox-22805	FOX	2015-09-20	2015-09-22		Registered Voters	1013	3.0	Live Phone	Nonpartisan	None
+49.0	41.0	10.0	bloomberg-selzer-22787	Bloomberg/Selzer	2015-09-18	2015-09-21		Adults	1001	3.1	Live Phone	Nonpartisan	None
+50.0	34.0	15.0	quinnipiac-22788	Quinnipiac	2015-09-17	2015-09-21		Registered Voters	787	2.5	Live Phone	Nonpartisan	None
+48.0	37.0	14.0	yougov-economist-22749	YouGov/Economist	2015-09-11	2015-09-15		Adults	2000	2.9	Internet	Nonpartisan	None
+37.0	29.0	34.0	msnbc-telemundo-marist-22763	MSNBC/Telemundo/Marist	2015-08-26	2015-09-09		Adults	1689	2.4	Live Phone	Sponsor	Other
+46.0	39.0	15.0	yougov-economist-22659	YouGov/Economist	2015-08-28	2015-09-01		Adults	2000	2.8	Internet	Nonpartisan	None
+43.0	40.0	17.0	ppp-d-22654	PPP (D)	2015-08-28	2015-08-30		Likely Voters	1254	2.8	IVR/Online	Pollster	Dem
+46.0	46.0	9.0	abc-post-22650	ABC/Post	2015-08-26	2015-08-30		Adults	1005	3.5	Live Phone	Nonpartisan	None
+48.0	39.0	12.0	quinnipiac-22621	Quinnipiac	2015-08-20	2015-08-25		Registered Voters	781		Live Phone	Nonpartisan	None
+44.0	41.0	15.0	yougov-economist-22602	YouGov/Economist	2015-08-14	2015-08-18		Adults	2000	2.8	Internet	Nonpartisan	None
+47.0	46.0	8.0	cnn-22576	CNN	2015-08-13	2015-08-16		Registered Voters	897	3.5	Live Phone	Nonpartisan	None
+47.0	40.0	14.0	gallup-22546	Gallup	2015-08-05	2015-08-09		Adults	1011	4.0	Live Phone	Nonpartisan	None
+41.0	41.0	17.0	yougov-economist-22517	YouGov/Economist	2015-07-31	2015-08-04		Adults	2000	2.7	Internet	Nonpartisan	None
+49.0	39.0	12.0	quinnipiac-22468	Quinnipiac	2015-07-23	2015-07-28		Registered Voters	822		Live Phone	Nonpartisan	None
+43.0	44.0	14.0	yougov-economist-22429	YouGov/Economist	2015-07-18	2015-07-20		Adults	1000	4.3	Internet	Nonpartisan	None
+43.0	46.0	12.0	morning-consult-22405	Morning Consult	2015-07-17	2015-07-20		Registered Voters	1978	2.0	Internet	Nonpartisan	None
+43.0	43.0	14.0	yougov-economist-22399	YouGov/Economist	2015-07-11	2015-07-13		Adults	1000	4.1	Internet	Nonpartisan	None
+43.0	45.0	12.0	yougov-economist-22351	YouGov/Economist	2015-06-27	2015-06-29		Adults	1000	4.4	Internet	Nonpartisan	None
+44.0	47.0	9.0	yougov-economist-22307	YouGov/Economist	2015-06-20	2015-06-22		Adults	1000	4.4	Internet	Nonpartisan	None
+40.0	31.0	29.0	nbc-wsj-22284	NBC/WSJ	2015-06-14	2015-06-18		Adults	1000	3.1	Live Phone	Nonpartisan	None
+42.0	45.0	13.0	yougov-economist-22274	YouGov/Economist	2015-06-13	2015-06-15		Adults	1000	4.4	Internet	Nonpartisan	None
+43.0	42.0	14.0	yougov-economist-22248	YouGov/Economist	2015-06-06	2015-06-08		Adults	1000	4.4	Internet	Nonpartisan	None
+46.0	43.0	11.0	yougov-economist-22217	YouGov/Economist	2015-05-30	2015-06-01		Adults	1000	4.4	Internet	Nonpartisan	None
+43.0	41.0	15.0	quinnipiac-22181	Quinnipiac	2015-05-19	2015-05-26		Registered Voters	856		Live Phone	Nonpartisan	None
+41.0	44.0	14.0	yougov-economist-22187	YouGov/Economist	2015-05-23	2015-05-25		Adults	1000	3.9	Internet	Nonpartisan	None
+39.0	46.0	15.0	yougov-economist-22158	YouGov/Economist	2015-05-16	2015-05-18		Adults	1000	4.6	Internet	Nonpartisan	None
+41.0	48.0	12.0	yougov-economist-22144	YouGov/Economist	2015-05-09	2015-05-11		Adults	1000	4.6	Internet	Nonpartisan	None
+39.0	44.0	18.0	gwu-battleground-22124	GWU/Battleground	2015-05-03	2015-05-06		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+41.0	48.0	11.0	yougov-economist-22109	YouGov/Economist	2015-05-02	2015-05-04		Adults	1000	4.1	Internet	Nonpartisan	None
+40.0	48.0	12.0	yougov-economist-22090	YouGov/Economist	2015-04-25	2015-04-27		Adults	1000	4.1	Internet	Nonpartisan	None
+41.0	48.0	12.0	yougov-economist-22055	YouGov/Economist	2015-04-18	2015-04-20		Adults	1000	4.1	Internet	Nonpartisan	None
+41.0	48.0	11.0	yougov-economist-22021	YouGov/Economist	2015-04-11	2015-04-13		Adults	1000	4.1	Internet	Nonpartisan	None
+46.0	42.0	12.0	bloomberg-selzer-22029	Bloomberg/Selzer	2015-04-06	2015-04-08		Adults	1008	3.1	Live Phone	Nonpartisan	None
+41.0	47.0	12.0	yougov-economist-22020	YouGov/Economist	2015-04-04	2015-04-06		Adults	1000	4.8	Internet	Nonpartisan	None
+43.0	47.0	10.0	fox-21968	FOX	2015-03-29	2015-03-31		Registered Voters	1025	3.0	Live Phone	Nonpartisan	None
+36.0	52.0	12.0	ppp-d-21983	PPP (D)	2015-03-26	2015-03-31		Likely Voters	989	3.1	IVR/Online	Pollster	Dem
+43.0	45.0	13.0	yougov-economist-21970	YouGov/Economist	2015-03-28	2015-03-30		Adults	1000	4.2	Internet	Nonpartisan	None
+41.0	43.0	16.0	yougov-economist-21931	YouGov/Economist	2015-03-21	2015-03-23		Adults	1000	4.3	Internet	Nonpartisan	None
+47.0	42.0	11.0	yougov-economist-21911	YouGov/Economist	2015-03-14	2015-03-16		Adults	1000	4.3	Internet	Nonpartisan	None
+43.0	46.0	11.0	cnn-21887	CNN	2015-03-13	2015-03-15		Adults	1009	3.0	Live Phone	Nonpartisan	None
+37.0	46.0	16.0	yougov-economist-21914	YouGov/Economist	2015-03-07	2015-03-09		Adults	1000	4.2	Internet	Nonpartisan	None
+39.0	39.0	22.0	gallup-21866	Gallup	2015-03-02	2015-03-04		Adults	1522	3.0	Live Phone	Nonpartisan	None
+44.0	45.0	11.0	yougov-economist-21835	YouGov/Economist	2015-02-28	2015-03-02		Adults	1000	4.2	Internet	Nonpartisan	None
+38.0	47.0	15.0	ppp-d-21784	PPP (D)	2015-02-20	2015-02-22		Likely Voters	691	3.7	IVR/Online	Pollster	Dem
+40.0	47.0	14.0	yougov-economist-21744	YouGov/Economist	2015-02-07	2015-02-09		Adults	1000	4.1	Internet	Nonpartisan	None
+40.0	46.0	14.0	yougov-economist-21693	YouGov/Economist	2015-01-31	2015-02-02		Adults	1000	4.0	Internet	Nonpartisan	None
+42.0	47.0	11.0	yougov-economist-21692	YouGov/Economist	2015-01-24	2015-01-26		Adults	1000	4.0	Internet	Nonpartisan	None
+37.0	48.0	15.0	yougov-economist-21629	YouGov/Economist	2015-01-17	2015-01-19		Adults	1000	4.0	Internet	Nonpartisan	None
+44.0	44.0	12.0	fox-21602	FOX	2015-01-11	2015-01-13		Registered Voters	1018	3.0	Live Phone	Nonpartisan	None
+44.0	46.0	10.0	yougov-economist-21599	YouGov/Economist	2015-01-10	2015-01-12		Adults	1000	4.8	Internet	Nonpartisan	None
+39.0	48.0	6.0	yougov-economist-21576	YouGov/Economist	2015-01-03	2015-01-05		Adults	1000	4.3	Internet	Nonpartisan	None
+43.0	45.0	13.0	yougov-economist-21572	YouGov/Economist	2014-12-27	2014-12-29		Adults	1000	4.3	Internet	Nonpartisan	None
+40.0	46.0	14.0	yougov-economist-21571	YouGov/Economist	2014-12-20	2014-12-22		Adults	1000	4.5	Internet	Nonpartisan	None
+41.0	46.0	14.0	yougov-economist-21545	YouGov/Economist	2014-12-13	2014-12-15		Adults	1000	4.5	Internet	Nonpartisan	None
+43.0	44.0	13.0	yougov-economist-21544	YouGov/Economist	2014-12-06	2014-12-08		Adults	1000	4.9	Internet	Nonpartisan	None
+36.0	49.0	15.0	yougov-economist-21493	YouGov/Economist	2014-11-22	2014-11-24		Adults	1000	4.7	Internet	Nonpartisan	None
+40.0	48.0	11.0	rasmussen-21517	Rasmussen	2014-11-18	2014-11-19		Likely Voters	1000	3.0	IVR/Online	Nonpartisan	None
+42.0	44.0	13.0	yougov-economist-21492	YouGov/Economist	2014-11-15	2014-11-17		Adults	1000	4.4	Internet	Nonpartisan	None
+35.0	38.0	27.0	nbc-wsj-21447	NBC/WSJ	2014-11-14	2014-11-17		Adults	1000	3.1	Live Phone	Nonpartisan	None
+38.0	50.0	12.0	yougov-economist-21491	YouGov/Economist	2014-11-08	2014-11-10		Adults	1000	4.5	Internet	Nonpartisan	None
+38.0	47.0	14.0	yougov-economist-21425	YouGov/Economist	2014-11-01	2014-11-03		Adults	1000	5.0	Internet	Nonpartisan	None
+40.0	50.0	10.0	yougov-economist-21424	YouGov/Economist	2014-10-25	2014-10-27		Adults	1000	4.4	Internet	Nonpartisan	None
+39.0	48.0	13.0	yougov-economist-21423	YouGov/Economist	2014-10-18	2014-10-20		Adults	1000	5.0	Internet	Nonpartisan	None
+41.0	46.0	13.0	yougov-economist-20905	YouGov/Economist	2014-10-11	2014-10-13		Adults	1000	4.6	Internet	Nonpartisan	None
+42.0	46.0	12.0	yougov-economist-20791	YouGov/Economist	2014-10-04	2014-10-06		Adults	1000	4.4	Internet	Nonpartisan	None
+43.0	45.0	12.0	yougov-economist-20790	YouGov/Economist	2014-09-27	2014-09-29		Adults	1000	4.4	Internet	Nonpartisan	None
+40.0	44.0	16.0	yougov-economist-20590	YouGov/Economist	2014-09-20	2014-09-22		Adults	1000	4.7	Internet	Nonpartisan	None
+40.0	46.0	14.0	yougov-economist-20492	YouGov/Economist	2014-09-13	2014-09-15		Adults	1000	4.5	Internet	Nonpartisan	None
+41.0	45.0	15.0	yougov-economist-20426	YouGov/Economist	2014-09-06	2014-09-08		Adults	1000	4.3	Internet	Nonpartisan	None
+42.0	43.0	15.0	yougov-economist-20284	YouGov/Economist	2014-08-30	2014-09-01		Adults	1000	4.0	Internet	Nonpartisan	None
+42.0	51.0	7.0	rasmussen-20216	Rasmussen	2014-08-24	2014-08-25		Likely Voters	1000	3.0	IVR/Online	Nonpartisan	None
+42.0	43.0	14.0	yougov-economist-20229	YouGov/Economist	2014-08-23	2014-08-25		Adults	1000	4.3	Internet	Nonpartisan	None
+41.0	47.0	12.0	yougov-economist-20180	YouGov/Economist	2014-08-16	2014-08-18		Adults	1000	4.6	Internet	Nonpartisan	None
+43.0	42.0	15.0	yougov-economist-20130	YouGov/Economist	2014-08-09	2014-08-11		Adults	1000	4.6	Internet	Nonpartisan	None
+40.0	42.0	17.0	yougov-economist-20060	YouGov/Economist	2014-08-02	2014-08-04		Adults	1000	4.7	Internet	Nonpartisan	None
+40.0	47.0	12.0	yougov-economist-20005	YouGov/Economist	2014-07-26	2014-07-28		Adults	1000	5.0	Internet	Nonpartisan	None
+38.0	47.0	15.0	ap-gfk-web-20024	AP-GfK (Web)	2014-07-24	2014-07-28		Adults	1044	3.4	Internet	Nonpartisan	None
+41.0	47.0	13.0	yougov-economist-19908	YouGov/Economist	2014-07-19	2014-07-21		Adults	1000	4.3	Internet	Nonpartisan	None
+40.0	48.0	12.0	yougov-economist-19867	YouGov/Economist	2014-07-12	2014-07-14		Adults	1000	4.0	Internet	Nonpartisan	None
+38.0	42.0	20.0	gallup-19870	Gallup	2014-07-07	2014-07-10		Adults	1013	4.0	Live Phone	Nonpartisan	None
+43.0	43.0	14.0	yougov-economist-19819	YouGov/Economist	2014-07-05	2014-07-07		Adults	1000	4.1	Internet	Nonpartisan	None
+44.0	43.0	12.0	yougov-economist-19801	YouGov/Economist	2014-06-28	2014-06-30		Adults	1000	4.1	Internet	Nonpartisan	None
+42.0	44.0	14.0	quinnipiac-19810	Quinnipiac	2014-06-24	2014-06-30		Registered Voters	723		Live Phone	Nonpartisan	None
+45.0	44.0	11.0	yougov-economist-19750	YouGov/Economist	2014-06-21	2014-06-23		Adults	1000	4.2	Internet	Nonpartisan	None
+40.0	49.0	11.0	yougov-economist-19716	YouGov/Economist	2014-06-14	2014-06-16		Adults	1000	4.2	Internet	Nonpartisan	None
+38.0	50.0	11.0	yougov-economist-19633	YouGov/Economist	2014-06-07	2014-06-09		Adults	1000	4.1	Internet	Nonpartisan	None
+46.0	48.0		saint-leo-university-19639	Saint Leo University	2014-05-28	2014-06-04		Likely Voters	802	3.5	Internet	Nonpartisan	None
+42.0	46.0	11.0	yougov-economist-19444	YouGov/Economist	2014-05-10	2014-05-12		Adults	1000	4.2	Internet	Nonpartisan	None
+40.0	48.0	12.0	yougov-economist-19397	YouGov/Economist	2014-05-03	2014-05-05		Adults	1000	4.2	Internet	Nonpartisan	None
+46.0	45.0	9.0	yougov-economist-19367	YouGov/Economist	2014-04-26	2014-04-28		Adults	1000	4.3	Internet	Nonpartisan	None
+42.0	44.0	14.0	yougov-economist-19316	YouGov/Economist	2014-04-19	2014-04-21		Adults	1000	4.1	Internet	Nonpartisan	None
+41.0	47.0	12.0	yougov-economist-19261	YouGov/Economist	2014-04-12	2014-04-14		Adults	1000	4.2	Internet	Nonpartisan	None
+43.0	44.0	13.0	yougov-economist-19239	YouGov/Economist	2014-04-05	2014-04-07		Adults	1000	4.2	Internet	Nonpartisan	None
+44.0	46.0	10.0	yougov-economist-19169	YouGov/Economist	2014-03-29	2014-03-31		Adults	1000	4.1	Internet	Nonpartisan	None
+45.0	44.0	12.0	yougov-economist-19132	YouGov/Economist	2014-03-22	2014-03-24		Adults	1000	4.0	Internet	Nonpartisan	None
+34.0	43.0	23.0	ap-gfk-web-19459	AP-GfK (Web)	2014-03-20	2014-03-24		Adults	1012	3.4	Internet	Nonpartisan	None
+44.0	48.0	8.0	gwu-battleground-19123	GWU/Battleground	2014-03-16	2014-03-20		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+45.0	49.0		saint-leo-university-19147	Saint Leo University	2014-03-16	2014-03-18		Adults	1009	3.0	Internet	Nonpartisan	None
+42.0	47.0	11.0	yougov-economist-19074	YouGov/Economist	2014-03-15	2014-03-17		Adults	1000	3.9	Internet	Nonpartisan	None
+41.0	44.0	15.0	yougov-economist-19041	YouGov/Economist	2014-03-08	2014-03-10		Adults	1000	3.9	Internet	Nonpartisan	None
+40.0	48.0	12.0	ppp-d-19043	PPP (D)	2014-03-06	2014-03-09		Likely Voters	1152	2.9	Automated Phone	Pollster	Dem
+44.0	45.0	12.0	yougov-economist-19040	YouGov/Economist	2014-03-01	2014-03-03		Adults	1000	3.9	Internet	Nonpartisan	None
+40.0	47.0	13.0	yougov-economist-18940	YouGov/Economist	2014-02-22	2014-02-24		Adults	1000	4.1	Internet	Nonpartisan	None
+38.0	48.0	14.0	yougov-economist-18876	YouGov/Economist	2014-02-15	2014-02-17		Adults	1000	4.2	Internet	Nonpartisan	None
+41.0	47.0	13.0	yougov-economist-18916	YouGov/Economist	2014-02-08	2014-02-10		Adults	1000	4.0	Internet	Nonpartisan	None
+46.0	42.0		gallup-18892	Gallup	2014-02-06	2014-02-09		Adults	1023	4.0	Live Phone	Nonpartisan	None
+42.0	48.0	11.0	yougov-economist-18799	YouGov/Economist	2014-02-01	2014-02-03		Adults	1000	4.0	Internet	Nonpartisan	None
+43.0	44.0	12.0	yougov-economist-18746	YouGov/Economist	2014-01-25	2014-01-27		Adults	1000	3.9	Internet	Nonpartisan	None
+34.0	49.0	18.0	ppp-d-18741	PPP (D)	2014-01-23	2014-01-26		Likely Voters	845	3.4	Automated Phone	Pollster	Dem
+40.0	47.0	12.0	yougov-economist-18722	YouGov/Economist	2014-01-18	2014-01-20		Adults	1000	3.9	Internet	Nonpartisan	None
+42.0	46.0	12.0	yougov-economist-18681	YouGov/Economist	2014-01-11	2014-01-13		Adults	1000	4.3	Internet	Nonpartisan	None
+42.0	47.0	12.0	yougov-economist-18646	YouGov/Economist	2014-01-04	2014-01-06		Adults	1000	3.9	Internet	Nonpartisan	None
+39.0	48.0	12.0	yougov-economist-18640	YouGov/Economist	2013-12-28	2013-12-30		Adults	1000	4.3	Internet	Nonpartisan	None
+40.0	51.0	9.0	yougov-economist-18635	YouGov/Economist	2013-12-14	2013-12-16		Adults	1000	4.3	Internet	Nonpartisan	None
+41.0	49.0	10.0	yougov-economist-18573	YouGov/Economist	2013-12-14	2013-12-16		Adults	1000	4.2	Internet	Nonpartisan	None
+38.0	49.0	13.0	ppp-d-18568	PPP (D)	2013-12-12	2013-12-15		Likely Voters	1316	2.7	Automated Phone	Pollster	Dem
+40.0	50.0	10.0	yougov-economist-18521	YouGov/Economist	2013-12-07	2013-12-09		Adults	1000	4.5	Internet	Nonpartisan	None
+39.0	44.0	17.0	ap-gfk-web-18514	AP-GfK (Web)	2013-12-05	2013-12-09		Adults	1367	3.5	Internet	Nonpartisan	None
+37.0	48.0	15.0	quinnipiac-18519	Quinnipiac	2013-12-03	2013-12-09		Registered Voters	2692	1.9	Live Phone	Nonpartisan	None
+51.0	43.0		saint-leo-university-18545	Saint Leo University	2013-12-01	2013-12-06		Likely Voters	761	3.5	Internet	Nonpartisan	None
+41.0	49.0	10.0	yougov-economist-18484	YouGov/Economist	2013-11-30	2013-12-02		Adults	1000	3.8	Internet	Nonpartisan	None
+40.0	52.0	9.0	yougov-economist-18474	YouGov/Economist	2013-11-23	2013-11-25		Adults	1000	3.8	Internet	Nonpartisan	None
+40.0	44.0	17.0	yougov-economist-18435	YouGov/Economist	2013-11-16	2013-11-18		Adults	1000	4.6	Internet	Nonpartisan	None
+42.0	42.0	16.0	yougov-economist-18401	YouGov/Economist	2013-11-09	2013-11-11		Adults	1000	4.8	Internet	Nonpartisan	None
+38.0	46.0	16.0	yougov-economist-18372	YouGov/Economist	2013-11-02	2013-11-04		Adults	1000	5.0	Internet	Nonpartisan	None
+36.0	48.0	16.0	yougov-economist-18325	YouGov/Economist	2013-10-26	2013-10-28		Adults	1000	4.3	Internet	Nonpartisan	None
+44.0	44.0	12.0	yougov-economist-18243	YouGov/Economist	2013-10-19	2013-10-21		Adults	1000	4.4	Internet	Nonpartisan	None
+41.0	48.0	11.0	yougov-economist-18242	YouGov/Economist	2013-10-12	2013-10-14		Adults	1000	4.6	Internet	Nonpartisan	None
+46.0	41.0	13.0	pew-18190	Pew	2013-10-09	2013-10-13		Adults	752		Live Phone	Nonpartisan	None
+42.0	42.0	16.0	yougov-economist-18157	YouGov/Economist	2013-10-05	2013-10-07		Adults	1000	4.5	Internet	Nonpartisan	None
+37.0	43.0	21.0	ap-gfk-web-18148	AP-GfK (Web)	2013-10-03	2013-10-07		Adults	1227	3.4	Internet	Nonpartisan	None
+43.0	43.0	15.0	yougov-economist-18119	YouGov/Economist	2013-09-28	2013-09-30		Adults	1000	4.5	Internet	Nonpartisan	None
+40.0	46.0	13.0	yougov-economist-18066	YouGov/Economist	2013-09-21	2013-09-23		Adults	1000	4.9	Internet	Nonpartisan	None
+39.0	43.0	19.0	yougov-economist-17968	YouGov/Economist	2013-09-14	2013-09-16		Adults	1000	4.6	Internet	Nonpartisan	None
+41.0	47.0	13.0	yougov-economist-17933	YouGov/Economist	2013-09-07	2013-09-09		Adults	1000	4.6	Internet	Nonpartisan	None
+39.0	48.0	14.0	yougov-economist-17909	YouGov/Economist	2013-08-31	2013-09-02		Adults	1000	4.4	Internet	Nonpartisan	None
+43.0	44.0	13.0	yougov-economist-17865	YouGov/Economist	2013-08-24	2013-08-26		Adults	1000	4.6	Internet	Nonpartisan	None
+44.0	47.0	8.0	yougov-economist-17856	YouGov/Economist	2013-08-17	2013-08-19		Adults	1000	5.0	Internet	Nonpartisan	None
+37.0	49.0	14.0	yougov-economist-17817	YouGov/Economist	2013-08-10	2013-08-12		Adults	1000	4.8	Internet	Nonpartisan	None
+42.0	49.0	9.0	yougov-economist-17790	YouGov/Economist	2013-08-03	2013-08-05		Adults	1000	4.7	Internet	Nonpartisan	None
+35.0	51.0	14.0	monmouth-university-17773	Monmouth University	2013-07-25	2013-07-30		Registered Voters	850	3.4	Live Phone	Nonpartisan	None
+39.0	45.0	16.0	yougov-economist-17761	YouGov/Economist	2013-07-27	2013-07-29		Adults	1000	4.5	Internet	Nonpartisan	None
+43.0	46.0	11.0	yougov-economist-17725	YouGov/Economist	2013-07-20	2013-07-22		Adults	1000	4.5	Internet	Nonpartisan	None
+38.0	35.0	27.0	nbc-wsj-17722	NBC/WSJ	2013-07-17	2013-07-21		Adults	1000	3.1	Live Phone	Nonpartisan	None
+43.0	45.0	12.0	yougov-economist-17693	YouGov/Economist	2013-07-13	2013-07-15		Adults	1000	4.8	Internet	Nonpartisan	None
+40.0	45.0	15.0	yougov-economist-17651	YouGov/Economist	2013-07-06	2013-07-08		Adults	1000	4.4	Internet	Nonpartisan	None
+38.0	44.0	18.0	quinnipiac-17657	Quinnipiac	2013-06-28	2013-07-08		Registered Voters	2014	2.2	Live Phone	Nonpartisan	None
+44.0	43.0	13.0	yougov-economist-17634	YouGov/Economist	2013-06-29	2013-07-01		Adults	1000	4.1	Internet	Nonpartisan	None
+42.0	48.0	9.0	fox-17613	FOX	2013-06-22	2013-06-24		Registered Voters	1012	3.0	Live Phone	Nonpartisan	None
+43.0	45.0	12.0	yougov-economist-17606	YouGov/Economist	2013-06-22	2013-06-24		Adults	1000	4.5	Internet	Nonpartisan	None
+42.0	46.0	12.0	yougov-economist-17574	YouGov/Economist	2013-06-15	2013-06-17		Adults	1000	4.5	Internet	Nonpartisan	None
+41.0	44.0	15.0	yougov-economist-17529	YouGov/Economist	2013-06-08	2013-06-10		Adults	1000	4.4	Internet	Nonpartisan	None
+43.0	47.0	11.0	yougov-economist-17491	YouGov/Economist	2013-06-01	2013-06-03		Adults	1000	4.5	Internet	Nonpartisan	None
+37.0	44.0	20.0	quinnipiac-17476	Quinnipiac	2013-05-22	2013-05-28		Registered Voters	1419	2.6	Live Phone	Nonpartisan	None
+45.0	44.0	11.0	yougov-economist-17467	YouGov/Economist	2013-05-25	2013-05-27		Adults	1000	5.0	Internet	Nonpartisan	None
+42.0	46.0	13.0	yougov-economist-17431	YouGov/Economist	2013-05-18	2013-05-20		Adults	1000	5.0	Internet	Nonpartisan	None
+46.0	42.0	12.0	yougov-economist-17400	YouGov/Economist	2013-05-11	2013-05-13		Adults	1000	4.4	Internet	Nonpartisan	None
+41.0	48.0	11.0	ppp-d-17399	PPP (D)	2013-05-06	2013-05-09		Likely Voters	1099	3.0	Automated Phone	Pollster	Dem
+45.0	43.0	12.0	yougov-economist-17365	YouGov/Economist	2013-05-04	2013-05-06		Adults	1000	5.0	Internet	Nonpartisan	None
+45.0	44.0	12.0	yougov-economist-17334	YouGov/Economist	2013-04-27	2013-04-29		Adults	1000	4.6	Internet	Nonpartisan	None
+44.0	40.0	15.0	yougov-economist-17303	YouGov/Economist	2013-04-20	2013-04-22		Adults	1000	4.8	Internet	Nonpartisan	None
+46.0	41.0	13.0	yougov-economist-17272	YouGov/Economist	2013-04-13	2013-04-15		Adults	1000	4.1	Internet	Nonpartisan	None
+45.0	42.0	14.0	gallup-17298	Gallup	2013-04-11	2013-04-14		Adults	1012	4.0	Live Phone	Nonpartisan	None
+46.0	41.0	13.0	yougov-economist-17249	YouGov/Economist	2013-04-06	2013-04-08		Adults	1000	4.7	Internet	Nonpartisan	None
+40.0	47.0	13.0	ppp-d-17222	PPP (D)	2013-03-27	2013-03-30		Likely Voters	1247	2.8	Automated Phone	Pollster	Dem
+43.0	44.0	13.0	yougov-economist-17175	YouGov/Economist	2013-03-16	2013-03-18		Adults	1000	4.6	Internet	Nonpartisan	None
+41.0	47.0	12.0	yougov-economist-17150	YouGov/Economist	2013-03-09	2013-03-11		Adults	1000	4.6	Internet	Nonpartisan	None
+44.0	40.0	15.0	yougov-economist-17116	YouGov/Economist	2013-03-02	2013-03-04		Adults	1000	4.6	Internet	Nonpartisan	None
+45.0	40.0	15.0	yougov-economist-17087	YouGov/Economist	2013-02-23	2013-02-25		Adults	1000	4.2	Internet	Nonpartisan	None
+43.0	42.0	15.0	yougov-economist-17064	YouGov/Economist	2013-02-16	2013-02-18		Adults	1000	4.2	Internet	Nonpartisan	None
+42.0	42.0	16.0	yougov-economist-17000	YouGov/Economist	2013-02-02	2013-02-04		Adults	994	4.3	Internet	Nonpartisan	None
+46.0	41.0	13.0	quinnipiac-16998	Quinnipiac	2013-01-30	2013-02-04		Registered Voters	1772	2.3	Live Phone	Nonpartisan	None
+49.0	42.0	10.0	yougov-economist-16965	YouGov/Economist	2013-01-26	2013-01-28		Adults	997	5.1	Internet	Nonpartisan	None
+44.0	39.0	17.0	yougov-economist-16964	YouGov/Economist	2013-01-19	2013-01-21		Adults	999	4.5	Internet	Nonpartisan	None
+48.0	37.0	15.0	abc-post-16925	ABC/Post	2013-01-16	2013-01-20		Adults	1033	3.5	Live Phone	Nonpartisan	None
+41.0	37.0	22.0	nbc-wsj-16905	NBC/WSJ	2013-01-12	2013-01-15		Adults	500		Live Phone	Nonpartisan	None
+44.0	46.0	10.0	yougov-economist-16963	YouGov/Economist	2013-01-12	2013-01-14		Adults	998	4.6	Internet	Nonpartisan	None
+42.0	42.0	16.0	pew-16916	Pew	2013-01-09	2013-01-13		Adults	775	4.1	Live Phone	Nonpartisan	None
+48.0	43.0	9.0	ppp-d-16866	PPP (D)	2013-01-03	2013-01-06		Likely Voters	1100	3.0	Automated Phone	Pollster	Dem
+39.0	38.0	23.0	nbc-wsj-16807	NBC/WSJ	2012-12-06	2012-12-09		Adults	1000	3.1	Live Phone	Nonpartisan	None
+46.0	43.0	12.0	politico-gwu-battleground-16794	Politico/GWU/Battleground	2012-12-02	2012-12-06		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+46.0	44.0	10.0	ppp-d-16784	PPP (D)	2012-11-30	2012-12-02		Registered Voters	700	3.7	Automated Phone	Pollster	Dem
+47.0	47.0	7.0	yougov-economist-16706	YouGov/Economist	2012-11-10	2012-11-12		Adults	1000	4.9	Internet	Nonpartisan	None
+42.0	50.0	7.0	yougov-economist-16733	YouGov/Economist	2012-11-03	2012-11-05		Adults	998	4.6	Internet	Nonpartisan	None
+48.0	48.0	4.0	dailykos-seiu-ppp-d-16640	DailyKos/SEIU/PPP (D)	2012-11-01	2012-11-04		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+46.0	46.0	7.0	fox-16385	FOX	2012-10-28	2012-10-30		Registered Voters	1230	3.0	Live Phone	Nonpartisan	None
+45.0	48.0	7.0	yougov-economist-16365	YouGov/Economist	2012-10-26	2012-10-28		Adults	1000	4.6	Internet	Nonpartisan	None
+37.0	43.0	20.0	cbs-times-16346	CBS/Times	2012-10-25	2012-10-28		Likely Voters	563	4.0	Live Phone	Nonpartisan	None
+45.0	50.0	5.0	dailykos-seiu-ppp-d-16322	DailyKos/SEIU/PPP (D)	2012-10-25	2012-10-28		Likely Voters	1400	2.6	Automated Phone	Sponsor	Dem
+44.0	42.0	15.0	pew-16283	Pew	2012-10-24	2012-10-28		Adults	1014		Live Phone	Nonpartisan	None
+46.0	48.0	5.0	npr-16310	NPR	2012-10-23	2012-10-25		Likely Voters	1000	3.1	Live Phone	Pollster	Dem
+44.0	41.0	15.0	ap-gfk-16135	AP-GfK	2012-10-19	2012-10-23		Adults	1186	3.5	Live Phone	Nonpartisan	None
+42.0	51.0	7.0	yougov-economist-16066	YouGov/Economist	2012-10-20	2012-10-22		Adults	1000	4.9	Internet	Nonpartisan	None
+45.0	50.0	5.0	dailykos-seiu-ppp-d-16074	DailyKos/SEIU/PPP (D)	2012-10-18	2012-10-21		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+37.0	46.0	18.0	monmouth-16023	Monmouth	2012-10-18	2012-10-21		Likely Voters	1402	2.6	IVR/Live Phone	Nonpartisan	None
+40.0	42.0	18.0	nbc-wsj-16000	NBC/WSJ	2012-10-17	2012-10-20		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+46.0	46.0	8.0	yougov-economist-15873	YouGov/Economist	2012-10-13	2012-10-15		Adults	999		Internet	Nonpartisan	None
+42.0	52.0	6.0	dailykos-seiu-ppp-d-15824	DailyKos/SEIU/PPP (D)	2012-10-12	2012-10-14		Likely Voters	1600	2.5	Automated Phone	Sponsor	Dem
+55.0	45.0		ipsos-reuters-web-15773	Ipsos/Reuters (Web)	2012-10-10	2012-10-14		Registered Voters	2123		Internet	Nonpartisan	None
+44.0	46.0	10.0	politico-gwu-battleground-15781	Politico/GWU/Battleground	2012-10-07	2012-10-11		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+44.0	46.0	10.0	fox-15675	FOX	2012-10-07	2012-10-09		Registered Voters	1204	3.0	Live Phone	Nonpartisan	None
+43.0	49.0	10.0	yougov-economist-15646	YouGov/Economist	2012-10-06	2012-10-08		Adults	1000	5.0	Internet	Nonpartisan	None
+38.0	46.0	16.0	pew-15793	Pew	2012-10-04	2012-10-07		Registered Voters	1201	3.3	Live Phone	Nonpartisan	None
+42.0	50.0	9.0	dailykos-seiu-ppp-d-15619	DailyKos/SEIU/PPP (D)	2012-10-04	2012-10-07		Likely Voters	1300	2.7	Automated Phone	Sponsor	Dem
+41.0	49.0	10.0	yougov-economist-15515	YouGov/Economist	2012-09-29	2012-10-01		Adults	1000	4.7	Internet	Nonpartisan	None
+47.0	42.0	11.0	cnn-15442	CNN	2012-09-28	2012-09-30		Registered Voters	883	3.5	Live Phone	Nonpartisan	None
+37.0	38.0	25.0	nbc-wsj-15480	NBC/WSJ	2012-09-26	2012-09-30		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+44.0	43.0	13.0	fox-15368	FOX	2012-09-24	2012-09-26		Registered Voters	1208	3.0	Live Phone	Nonpartisan	None
+42.0	45.0	13.0	bloomberg-15316	Bloomberg	2012-09-21	2012-09-24		Adults	1007	3.1	Live Phone	Nonpartisan	None
+43.0	45.0	13.0	politico-gwu-battleground-15259	Politico/GWU/Battleground	2012-09-16	2012-09-20		Likely Voters	1000	3.1	Live Phone	Nonpartisan	None
+47.0	46.0	8.0	yougov-economist-15131	YouGov/Economist	2012-09-15	2012-09-17		Adults	1000	4.1	Internet	Nonpartisan	None
+41.0	43.0	15.0	pew-15141	Pew	2012-09-12	2012-09-16		Adults	1455		Live Phone	Nonpartisan	None
+34.0	34.0	32.0	cbs-times-15036	CBS/Times	2012-09-08	2012-09-12		Registered Voters	1170	3.0	Live Phone	Nonpartisan	None
+47.0	44.0	10.0	fox-14991	FOX	2012-09-09	2012-09-11		Registered Voters	1224	3.0	Live Phone	Nonpartisan	None
+46.0	45.0	9.0	yougov-economist-14980	YouGov/Economist	2012-09-08	2012-09-10		Adults	1000	3.9	Internet	Nonpartisan	None
+51.0	49.0		ipsos-reuters-web-14936	Ipsos/Reuters (Web)	2012-09-05	2012-09-09		Registered Voters	1660	2.7	Internet	Nonpartisan	None
+51.0	49.0		ipsos-reuters-web-14933	Ipsos/Reuters (Web)	2012-09-04	2012-09-08		Registered Voters	1720	2.7	Internet	Nonpartisan	None
+51.0	49.0		ipsos-reuters-web-14928	Ipsos/Reuters (Web)	2012-09-03	2012-09-07		Registered Voters	1670	2.7	Internet	Nonpartisan	None
+49.0	51.0		ipsos-reuters-web-14909	Ipsos/Reuters (Web)	2012-09-02	2012-09-06		Registered Voters	1623	2.8	Internet	Nonpartisan	None
+50.0	50.0		ipsos-reuters-web-14908	Ipsos/Reuters (Web)	2012-09-01	2012-09-05		Registered Voters	1352	3.0	Internet	Nonpartisan	None
+49.0	51.0		ipsos-reuters-web-14890	Ipsos/Reuters (Web)	2012-08-31	2012-09-04		Registered Voters	1447	2.9	Internet	Nonpartisan	None
+41.0	44.0	14.0	yougov-economist-14895	YouGov/Economist	2012-09-01	2012-09-03		Adults	1000	4.2	Internet	Nonpartisan	None
+46.0	43.0	11.0	cnn-14889	CNN	2012-08-31	2012-09-03		Registered Voters	877	3.5	Live Phone	Nonpartisan	None
+49.0	51.0		ipsos-reuters-web-14857	Ipsos/Reuters (Web)	2012-08-29	2012-09-02		Registered Voters	1441	2.9	Internet	Nonpartisan	None
+50.0	50.0		ipsos-reuters-web-14856	Ipsos/Reuters (Web)	2012-08-28	2012-09-01		Registered Voters	1505	2.9	Internet	Nonpartisan	None
+50.0	50.0	0.0	ipsos-reuters-web-14855	Ipsos/Reuters (Web)	2012-08-27	2012-08-31		Registered Voters	1632	2.8	Internet	Nonpartisan	None
+49.0	51.0		ipsos-reuters-web-14845	Ipsos/Reuters (Web)	2012-08-26	2012-08-30		Registered Voters	1481	2.9	Internet	Nonpartisan	None
+48.0	52.0		ipsos-reuters-web-14831	Ipsos/Reuters (Web)	2012-08-25	2012-08-29		Registered Voters	1545	2.8	Internet	Nonpartisan	None
+48.0	52.0		ipsos-reuters-web-14818	Ipsos/Reuters (Web)	2012-08-24	2012-08-28		Registered Voters	1591	2.8	Internet	Nonpartisan	None
+40.0	46.0	14.0	yougov-economist-14826	YouGov/Economist	2012-08-25	2012-08-27		Adults	1000	4.2	Internet	Nonpartisan	None
+49.0		51.0	ipsos-reuters-web-14815	Ipsos/Reuters (Web)	2012-08-24	2012-08-27		Registered Voters	857	3.8	Internet	Nonpartisan	None
+28.0	37.0	36.0	cbs-14807	CBS	2012-08-22	2012-08-26		Registered Voters	1051	3.0	Live Phone	Nonpartisan	None
+44.0	47.0	9.0	cnn-14768	CNN	2012-08-22	2012-08-23		Registered Voters	924	3.0	Live Phone	Nonpartisan	None
+44.0	45.0	11.0	usa-today-gallup-14898	USA Today/Gallup	2012-08-20	2012-08-22		Adults	1033	4.0	Live Phone	Nonpartisan	None
+42.0	47.0	11.0	resurgent-republic-r-14797	Resurgent Republic (R)	2012-08-16	2012-08-22		Registered Voters	1000	3.1	Live Phone	Pollster	Rep
+45.0	42.0	12.0	fox-14758	FOX	2012-08-19	2012-08-21		Registered Voters	1219	3.0	Live Phone	Nonpartisan	None
+36.0	48.0	16.0	yougov-economist-14729	YouGov/Economist	2012-08-18	2012-08-20		Adults	1000	4.6	Internet	Nonpartisan	None
+42.0	44.0	14.0	ap-gfk-14719	AP-GfK	2012-08-16	2012-08-20		Adults	1006	3.9	Live Phone	Nonpartisan	None
+36.0	40.0	24.0	nbc-wsj-14718	NBC/WSJ	2012-08-16	2012-08-20		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+43.0	43.0	14.0	abc-post-14722	ABC/Post	2012-08-15	2012-08-19		Adults	1020	4.0	Live Phone	Nonpartisan	None
+30.0	35.0	35.0	monmouth-14702	Monmouth	2012-08-15	2012-08-19		Registered Voters	1375	2.7	IVR/Live Phone	Nonpartisan	None
+41.0	44.0	16.0	yougov-economist-14659	YouGov/Economist	2012-08-11	2012-08-13		Adults	1000	4.1	Internet	Nonpartisan	None
+35.0	37.0	28.0	nbc-wsj-14436	NBC/WSJ	2012-07-18	2012-07-22		Registered Voters	1000	3.1	Live Phone	Nonpartisan	None
+38.0	49.0	14.0	yougov-economist-14304	YouGov/Economist	2012-07-07	2012-07-09		Adults	1000	4.2	Internet	Nonpartisan	None
+40.0	44.0	15.0	yougov-economist-14199	YouGov/Economist	2012-06-23	2012-06-25		Adults	1000	4.2	Internet	Nonpartisan	None
+42.0	43.0	15.0	yougov-economist-14138	YouGov/Economist	2012-06-16	2012-06-18		Adults	1000	4.3	Internet	Nonpartisan	None
+41.0	46.0	13.0	cnn-13981	CNN	2012-05-29	2012-05-31		Registered Voters	895	3.5	Live Phone	Nonpartisan	None
+35.0	37.0	28.0	nbc-wsj-13873	NBC/WSJ	2012-05-16	2012-05-20		Adults	1000	3.1	Live Phone	Nonpartisan	None
+41.0	44.0	15.0	fox-13819	FOX	2012-05-13	2012-05-15		Registered Voters	915	3.0	Live Phone	Nonpartisan	None
+42.0	45.0	14.0	usa-today-gallup-14641	USA Today/Gallup	2012-05-10	2012-05-13		Adults	1012	4.0	Live Phone	Nonpartisan	None
+41.0	42.0	16.0	yougov-economist-12064	YouGov/Economist	2011-10-29	2011-11-01		Adults	1000	3.7	Internet	Nonpartisan	None
