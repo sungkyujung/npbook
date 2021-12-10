@@ -114,7 +114,7 @@ g1 = dat1 %>% ggplot() + geom_point(aes(x,y,color = kx)) +
     curvature = -.3, arrow = arrow(length = unit(2, "mm"))
   ) + guides(color = FALSE)+
   annotate("text", x= 16000, y = 50, label = TeX(r'($(x, \\hat{m}_1(x))$)', output="character"),hjust = "right",parse=T) +
-  scale_x_continuous(labels =NULL) + ggtitle("국소 선형 회귀 추정, x = 2013/10/22") + guides(fill=FALSE)+ 
+  scale_x_continuous(labels =NULL) + ggtitle("국소선형회귀추정, x = 2013/10/22") + guides(fill=FALSE)+ 
   geom_line(data = ll, aes(x=as_date(x),y=y),color = "blue")
 
 xp = round(16750)
@@ -133,7 +133,7 @@ g2 = dat2 %>% ggplot() + geom_point(aes(x,y,color = kx)) +
     curvature = -.3, arrow = arrow(length = unit(2, "mm"))
   ) + guides(color = FALSE)+ 
   annotate("text", x= 16000, y = 50, label = TeX(r'($(x, \\hat{m}_1(x))$)', output="character"),hjust = "right",parse=T) +
-  scale_x_continuous(labels =NULL) + ggtitle("국소 선형 회귀 추정, x = 2015/11/11 ") + 
+  scale_x_continuous(labels =NULL) + ggtitle("국소선형회귀추정, x = 2015/11/11 ") + 
   geom_line(data = ll, aes(x=as_date(x),y=y),color = "blue")
 plot_grid(g1,g2)
 ggsave(filename = "ch11r4.pdf", path = 'images', width = 6.7, height = 4)
