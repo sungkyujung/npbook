@@ -171,7 +171,7 @@ pairbeta_rm = pairbetas %>% filter(betaij != Inf)
 (alphaTS = median(y - betaTS * x))
 
 wh %>% ggplot(aes(GDP.per.capita, Score)) + geom_point() + geom_smooth(method = "lm", se = F) +
-  geom_abline(intercept = alphaTS, slope = betaTS)
+  geom_abline(intercept = alphaTS, slope = betaTS, linetype = "dotted",size = 1)
 
 ggsave(filename = "ch10m3.pdf", path = 'images', width = 6.5, height = 5)
 ggsave(filename = "ch10m3.png", path = 'images', width = 6.5, height = 5)  
