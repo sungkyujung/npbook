@@ -120,9 +120,11 @@ F.test2.exact = function(x,trt, blk, data = NULL){
   Fperms = apply(allperms, 1, function(perm.trt){
     F.stat.CBD(x,perm.trt,block)
   })
+  
+  Fobs = F.stat.CBD(x, treatment, block)
   pval = mean(Fperms >=Fobs)
   nrow(allperms)
-  list(Fobs = F.stat.CBD(x, treatment, block),
+  list(Fobs = Fobs,
        Fperms = Fperms,
        nperms = nrow(allperms),
        pvalue = pval)
@@ -177,9 +179,10 @@ Friedman.test.exact = function(x,trt, blk, data = NULL){
   Fperms = apply(allperms, 1, function(perm.trt){
     FM.stat.CBD(x,perm.trt,block)
   })
+  Fobs = FM.stat.CBD(x, treatment, block)
   pval = mean(Fperms >=Fobs)
   nrow(allperms)
-  list(Fobs = FM.stat.CBD(x, treatment, block),
+  list(Fobs = Fobs,
        Fperms = Fperms,
        nperms = nrow(allperms),
        pvalue = pval)
@@ -211,7 +214,7 @@ Friedman.test.randperm = function(x,treatment, block, M = 1999, data = NULL){
   FMperm = replicate(M, {
                   xperm = randperm.inblock(x,block)
                   FM.stat.CBD(xperm, treatment, block)})
-  pval = mean(c(FMobs,FMperm) >= FMobs)
+  pval = mean(c(Fobs,FMperm) >= Fobs)
   list(FMobs = Fobs,
        FMperms = FMperm,
        nperms = M,
